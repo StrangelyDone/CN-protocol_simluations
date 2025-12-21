@@ -1,0 +1,65 @@
+[sender]   waiting for call 0 from above
+[receiver] waiting for call 0 from below
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   ACK received
+[sender]   incorrect/corrupt ACK, Retransmitting...
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 1 from above
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 1
+[receiver] waiting for call 1 from below
+[sender]   ACK received
+[sender]   incorrect/corrupt ACK, Retransmitting...
+[sender]   waiting for ACK 1
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 1
+[receiver] waiting for call 0 from below
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 0 from above
+[receiver] waiting for call 0 from below
+----------
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   ACK received
+[sender]   incorrect/corrupt ACK, Retransmitting...
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[receiver] called from below, received packet
+[receiver] ACK sent
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 1 from above
+[receiver] waiting for call 1 from below
+----------
+Total # of transmissions = 6

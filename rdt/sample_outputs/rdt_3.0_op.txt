@@ -1,0 +1,105 @@
+[sender]   waiting for call 0 from above
+[receiver] waiting for call 0 from below
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 0.57s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 1.04s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK delayed by 0.93s
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 1 from above
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 1
+[channel]  packet delayed by 0.63s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 1
+[receiver] waiting for call 0 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 1
+[channel]  packet lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 1
+[receiver] waiting for call 0 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 1
+[channel]  packet delayed by 1.23s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK delayed by 0.29s
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 0 from above
+[receiver] waiting for call 0 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 0.16s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 1.16s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK delayed by 0.92s
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 0.12s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 0.81s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK lost!
+[sender]   Timeout, Retransmitting...!
+[sender]   waiting for ACK 0
+[receiver] waiting for call 1 from below
+----------
+[sender]   called from above, sending packet
+[sender]   Sending packet with seq 0
+[channel]  packet delayed by 1.1s
+[receiver] called from below, received packet
+[receiver] ACK sent
+[channel]  ACK delayed by 0.49s
+[sender]   ACK received
+[sender]   no error in transmission
+[sender]   waiting for call 1 from above
+[receiver] waiting for call 1 from below
+----------
+Total # of transmissions = 10
