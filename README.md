@@ -145,7 +145,7 @@ This project demonstrates understanding of:
 - Protocol state machines
 - Performance analysis and visualization
 
-## 📝 License
+## License
 
 -This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for   details.
 - Implemented as part of Computer Networks coursework
