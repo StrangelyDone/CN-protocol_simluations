@@ -1,5 +1,7 @@
 # Computer Networks Protocol Simulations
 
+<!-- Readme generated using AI assistance! --> 
+
 A collection of implementations for reliable data transfer protocols and TCP congestion control algorithms, demonstrating fundamental concepts in computer networking.
 
 ## Project Overview
